@@ -1,0 +1,5 @@
+https://agents.md/#examples
+
+path:AGENTS.md NOT is:fork NOT is:archived
+
+https://github.com/cedric-scheerlinck/chess-coach

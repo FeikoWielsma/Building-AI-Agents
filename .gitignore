@@ -1,0 +1,19 @@
+# Ignore system and Python temp files
+Thumbs.db
+Desktop.ini
+.DS_Store
+**/__pycache__/
+**/*.py[cod]
+**/.venv/
+**/venv/
+**/.ipynb_checkpoints/
+
+# Never commit keys
+.env
+keys.txt
+*.key
+*.pem
+
+# Ignore work folders a student creates
+/course-work/
+/my-notes/

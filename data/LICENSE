@@ -1,0 +1,33 @@
+img/airport.jpg
+img/airport_simple.jpg (modified version of img/airport.jpg)
+link: https://pixabay.com/photos/airport-walking-waiting-gate-walk-4120835/
+author: ClickerHappy
+license: Free for use under the Pixabay Content License: https://pixabay.com/service/license-summary/
+
+img/lane_navigation_1.png
+img/lane_navigation_2.png
+img/lane_navigation_3.png
+img/self_driving.gif
+author: Michał Żarnecki
+
+annual_report.html
+artificially modified and anonymized document
+creator: Michał Żarnecki
+
+document.pdf
+artificially modified and anonymized document
+creator: Michał Żarnecki
+
+nad_niemnem.txt
+A fragment of the novel "Nad Niemnem" (1888) by Eliza Orzeszkowa – a work in the public domain.
+author: Eliza Orzeszkowa
+banking77-tickets.csv
+BANKING77, the test split, with a queue column added for this course.
+The full dataset is 13,083 real customer-service queries labelled with 77
+fine-grained intents ; the 3,080-row test split is what ships here.
+source: https://github.com/PolyAI-LDN/task-specific-datasets
+paper: Casanueva et al., "Efficient Intent Detection with Dual Sentence Encoders", 2020
+authors: PolyAI Limited
+license: CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/
+changes: only the 3,080-row test split is included, the "category" column is
+renamed "intent", and a "queue" column groups the 77 intents into five desks.

@@ -1,0 +1,11 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "mcp": {
+    "time-server": {
+      "type": "local",
+      "command": ["npm", "run", "start"],
+      "enabled": true,
+      "cwd": "C:/Git/courseWare/courseBuildingAIAgents/notebooks/.opencode/mcp/time-server"
+    }
+  }
+}
